@@ -17,5 +17,6 @@ public class App {
 
 		System.out.println(employ);
 
+		System.out.println("employ id is:"+employ.getId());
 	}
 }
