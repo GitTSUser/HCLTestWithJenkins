@@ -17,6 +17,9 @@ public class ClientApp {
 		HelloWorld obj = (HelloWorld) bean;
 
 		System.out.println(obj.getMessage());
+		
+				System.out.println(obj.getMessage());
+				System.out.println(obj.getMessage());
 
 	}
 
